@@ -1,5 +1,6 @@
 ## Project Description  
-This project analyzes a six‑week pilot of three sales strategies—Email, Call, and Email+Call—for a new office stationery line. It covers data validation and cleaning, exploratory visualizations, and the creation of an efficiency metric (Revenue per Team‑Hour), culminating in recommendations to boost revenue while minimizing team effort.
+I analyzed customer response to three sales strategies—Email, Call, and Email+Call—over a six‑week pilot for a new stationery product line. It validates and explores data, defines an efficiency metric, and delivers recommendations to maximize revenue and optimize team effort.
+
 
 ## Business Context  
 Pens & Printers, founded in 1984, supplies high‑quality office products to enterprises. In response to evolving buying habits, the team tested three outreach methods over a six‑week pilot:
